@@ -3,7 +3,7 @@
 ---
 
 
-# Welcome to My Site!
-Thanks for visiting. I have [[other pages\|other pages]] as well as **bold text**, *italic text*, ~~strikethrough text~~ and I can share code: `<p></p>` and more!
+# Takk for at du stakk innom
+Dette er et forsøk på å samle tanker, ideer og impulser en enkel plass som jeg har tilgang på uansett.
 
-This is another paragraph.
+Du finner alt jeg har lagt ut på [[generell oversikt\|generell oversikt]]
