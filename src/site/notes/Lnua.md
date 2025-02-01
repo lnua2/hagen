@@ -4,6 +4,6 @@
 
 # Forside
 
-En [[Generell oversikt \|generell oversikt]] finner du der
+En finner du der
 
-[[Generell oversikt\|Generell oversikt]] 
+[[Generell oversikt \| test]] 
