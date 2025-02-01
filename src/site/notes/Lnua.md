@@ -6,4 +6,4 @@
 
 En finner du der
 
-[[Generell oversikt \| test]] 
+[[Generell oversikt\| test]]
