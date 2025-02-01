@@ -4,3 +4,4 @@
 
 
 # test
+[[Lnua\|Lnua]]
