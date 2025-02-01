@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/lnua/","tags":["gardenEntry"]}
 ---
 
-<h1> Forside<h1/>
+# Forside
 
 En [[Generell oversikt \|generell oversikt]] finner du der
