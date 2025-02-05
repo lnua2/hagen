@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forside/","tags":["gardenEntry","gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false"}
+{"dg-publish":true,"permalink":"/forside/","pinned":"true","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false"}
 ---
 
 # Hva er jeg
