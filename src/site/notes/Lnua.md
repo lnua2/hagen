@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/lnua/","tags":["gardenEntry"]}
 ---
 
-# Forside
+# Hva er jeg
 
-En finner du der
+Kort oppsummert er dette en side som samler alt av tanker, ideer og impulser jeg ar (som jeg kan skrive ut i tekst)
 
 [[Generell oversikt\| test]]
