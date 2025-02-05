@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/skriverier/"}
+{"dg-publish":true,"permalink":"/skriverier/","dgShowBacklinks":"false"}
 ---
 
