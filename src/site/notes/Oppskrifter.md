@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/oppskrifter/"}
+{"dg-publish":true,"permalink":"/oppskrifter/","dgShowLocalGraph":"false"}
 ---
 
