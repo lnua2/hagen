@@ -8,4 +8,4 @@ Kort oppsummert er dette en side som samler alt av tanker, ideer og impulser jeg
 
 # Oversikt
 [[Oppskrifter/Oppskrifter\|Oppskrifter]]
-[[Skriverier\|Skriverier]]
+[[Skriverier/Skriverier\|Skriverier]]
