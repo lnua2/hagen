@@ -4,3 +4,5 @@
 
 - Sinne
 - Frykt
+- Stahet
+- 
