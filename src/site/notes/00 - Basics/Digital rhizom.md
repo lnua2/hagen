@@ -13,10 +13,10 @@ I hode mitt ser jeg sånn ut
 ![IMG_1314.jpg|500](/img/user/00%20-%20Basics/IMG_1314.jpg)
 
 # Oversikt over noder
-- [[Antrekk/00 - Antrekk\|Antrekk]]
+- [[00 - Antrekk\|Antrekk]]
 - [[Hjernen min/00 - Hjernen min\|Hjernen min]]
 - [[Musikk/00 - Musikk\|Musikk]]
-- [[Oppskrifter/00 - Oppskrifter\|Oppskrifter]]
+- [[Oppskrifter/Oppskrifter\|Oppskrifter]]
 - 
 
 [^1]: https://maggieappleton.com/garden-history/
