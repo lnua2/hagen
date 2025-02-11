@@ -10,4 +10,7 @@ Dette kan skje når jeg opplever dysfori over lengre tid. Det vil si at jeg for 
 
 Noen ganger blir jeg underaktivert, men også veldig overveldet og anspent. Det kan jo ikke kalles underaktivering, men det oppleves ganske likt men at jeg heller føler meg overstimulert. Nummenheten blir borte. Nesten som om hormonene som demper opplevelsen av smerte ikke er der
 
+# Post-alkohol angst (fylleangst)
+
+
 [^1]: Kjennetegnes ved at kroppen kobles ut. Det skjer ting i kroppen som tvinger deg til å slappe av, for eksempel hormoner blir sluppet ut i hjernen som demper opplevelsen av smerte. Følelsen av at man er maktesløs.
