@@ -13,7 +13,7 @@ I hode mitt ser jeg sånn ut
 ![IMG_1314.jpg|500](/img/user/Bilder/IMG_1314.jpg)
 
 # Oversikt over noder
-- [[Antrekk/Antrekk\|Antrekk]]
+- [[Materielle ting/Materielle ting\|Materielle ting]]
 - [[00 - Hjernen min\|Hjernen min]]
 - [[00 - Musikk\|Musikk]]
 - [[Oppskrifter/Oppskrifter\|Oppskrifter]]
