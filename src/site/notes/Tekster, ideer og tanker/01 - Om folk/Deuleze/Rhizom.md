@@ -6,7 +6,7 @@
 Kort oppsummert er en rhizom en underjordisk del av en plante, hvertfall i følge SNL [^1]. Vi kaller det også jordstengel, men asså rhizom høres kulere ut. Rhizom skiller seg ut fra røtter ved at den utvikler små bladknopper, med blad som ligner på skjell men uten klorofyll [^2]. Den skilles seg også fra røtter fordi den har noder og internoder. Noder er delen av stilken hvor blader vokser, internoder er delen av stilken mellom to noder.
 
 Det som gjør rhizom til noe jeg henger meg opp i er at nodene får egne røtter og skudd  (ikke bare blader mao). På grunn av rhizomen sprer planten seg videre horisontalt, og oppover. Dette kan føre til et veldig komplisert system av noder som er umulig å holde oversikt på.
-![rhizom.jpg|400](/img/user/rhizom.jpg)
+![rhizom.jpg|400](/img/user/Bilder/rhizom.jpg)
 
 Det er også noe som kalles utløpere (jordbær har det), men vistnok er det ikke noe tydelig skille på utløpere og rhizomer. Ugress har gjerne rhizom, og er en grunn til at de er så ufattelige plagsomme.
 ## Kort oppsummering

@@ -10,7 +10,7 @@ Når det er sagt tror jeg dette kanskje er nærmere en *digital [[Tekster, ideer
 # Hvem er jeg?
 **Jeg** er en statlig ansatt, en musiker, en transkvinne, en lesbe, en mor, en datter og en elsker *raaawr* 
 I hode mitt ser jeg sånn ut
-![IMG_1314.jpg|500](/img/user/00%20-%20Basics/IMG_1314.jpg)
+![IMG_1314.jpg|500](/img/user/Bilder/IMG_1314.jpg)
 
 # Oversikt over noder
 - [[Antrekk/Antrekk\|Antrekk]]

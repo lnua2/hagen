@@ -9,5 +9,3 @@ Dette er et slags forsøk på å forstå hvordan jeg henger sammen, men også ty
 - [[Hjernen min/Sinne\|Sinne]] - tett knyttet opp til angst
 - [[Hjernen min/Stahet\|Stahet]] - Noe som oppstår mellom angst og sinne
 - [[Hjernen min/Tid\|Tid]]
-
-![hjernen min.jpg|400](/img/user/Hjernen%20min/hjernen%20min.jpg)
