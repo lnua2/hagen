@@ -15,7 +15,7 @@ I hode mitt ser jeg sånn ut
 # Oversikt over noder
 - [[Antrekk/Antrekk\|Antrekk]]
 - [[00 - Hjernen min\|Hjernen min]]
-- [[Musikk/00 - Musikk\|Musikk]]
+- [[00 - Musikk\|Musikk]]
 - [[Oppskrifter/Oppskrifter\|Oppskrifter]]
 - 
 

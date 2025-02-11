@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hjernen-min/hjernen-min/"}
+{"dg-publish":true,"permalink":"/hjernen-min/hjernen-min/","pinned":"true"}
 ---
 
 Dette er et slags forsøk på å forstå hvordan jeg henger sammen, men også tydeliggjøre det for andre. Konseptualisere? Er det et ord som passer her kanskje? Hvem vet.
@@ -9,3 +9,4 @@ Dette er et slags forsøk på å forstå hvordan jeg henger sammen, men også ty
 - [[Hjernen min/Sinne\|Sinne]] - tett knyttet opp til angst
 - [[Hjernen min/Stahet\|Stahet]] - Noe som oppstår mellom angst og sinne
 - [[Hjernen min/Tid\|Tid]]
+- [[Hjernen min/Potetgull\|Potetgull]]
