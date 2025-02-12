@@ -7,16 +7,17 @@ Kort oppsummert er dette en side som samler alt av tanker, ideer og impulser jeg
 
 Når det er sagt tror jeg dette kanskje er nærmere en *digital [[Tekster, ideer og tanker/01 - Om folk/Deuleze/Rhizom\|rhizome]]*, definisjonen skal jeg komme tilbake til etterhvert som jeg lærer mer om [[Tekster, ideer og tanker/01 - Om folk/Deuleze/Rhizom\|rhizome]]
 
-# Hvem er jeg?
+## Hvem er jeg?
 **Jeg** er en statlig ansatt, en musiker, en transkvinne, en lesbe, en mor, en datter og en elsker *raaawr* 
 I hode mitt ser jeg sånn ut
-![IMG_1314.jpg|500](/img/user/Bilder/IMG_1314.jpg)
+![IMG_1314.jpg|300](/img/user/Bilder/IMG_1314.jpg)
 
-# Oversikt over noder
+## Oversikt over noder
 - [[Materielle ting/Materielle ting\|Materielle ting]]
-- [[00 - Hjernen min\|Hjernen min]]
-- [[00 - Musikk\|Musikk]]
+- [[Hjernen min/Hjernen min\|Hjernen min]]
+- [[Musikk/Musikk\|Musikk]]
 - [[Oppskrifter/Oppskrifter\|Oppskrifter]]
-- 
+- [[Tekster, ideer og tanker/01 - Dagbok/01 - Dagbok\|Dagbok]]
+- []
 
 [^1]: https://maggieappleton.com/garden-history/
