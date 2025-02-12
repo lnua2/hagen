@@ -10,10 +10,10 @@ Dette kan skje når jeg opplever dysfori over lengre tid. Det vil si at jeg for 
 
 Noen ganger blir jeg underaktivert, men også veldig overveldet og anspent. Det kan jo ikke kalles underaktivering, men det oppleves ganske likt men at jeg heller føler meg overstimulert. Nummenheten blir borte. Nesten som om hormonene som demper opplevelsen av smerte ikke er der
 
-# Post-alkohol angst (fylleangst)
+## Post-alkohol angst (fylleangst)
 noe noe her
 
-# Angst for internett
+## Angst for internett
 Egentlig helt siden jeg var barn har jeg hatt en generell angst for å publisere ting på nett, enten kommentarer, innlegg, bilder, eller faktisk bare det å chatte med noen. Jeg tror det henger sammen med at jeg ikke føler jeg kan stole på hva folk sier til meg. En av mine største frykter er jo for eksempel at jeg plutselig skal få høre at jeg er sykt "teit" eller "dum" eller ja noe sånt. At folk skal tenke at jeg er en raring eller i veien, litt sånn *æsj hvem er du hvorfor snakker du til meg*
 
 
