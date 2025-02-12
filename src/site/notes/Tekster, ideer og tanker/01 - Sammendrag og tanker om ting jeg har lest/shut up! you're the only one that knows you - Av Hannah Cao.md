@@ -34,4 +34,7 @@ Okei, så er det ikke helt det hun referer til men er hvertfall det jeg jobber m
 
 >When a child makes a mistake and you call it out for it, and it learns and apologises, do you bring it up to them once and acknowledge their regrets or do you make them feel bad many times after the fact? I hope you wouldn’t, because otherwise it can never move on.
 
-Dette er nok ikke noe jeg gjør ofte, men jeg har tatt meg i det i krangler med BB. Jeg tror de gangene jeg gjør det er det 60% for å dra opp at *her føler jeg ingen endring* og 40% bare drittsekk gjort av meg. Uansett er det kanskje ikke noe som er nødvendig å gjøre? Vet hvert fall når andre gjør det med meg så blir jeg veldig såret, fordi det oppleves som at de ikke skjønner at jeg prøver å rette opp i det. Faen stryk den forrige gangen jeg skrev kanskje, sånt er faktisk helt unødvendig. ![fragile meg.jpg|300](/img/user/fragile%20meg.jpg)
+Dette er nok ikke noe jeg gjør ofte, men jeg har tatt meg i det i krangler med BB. Jeg tror de gangene jeg gjør det er det 60% for å dra opp at *her føler jeg ingen endring* og 40% bare drittsekk gjort av meg. Uansett er det kanskje ikke noe som er nødvendig å gjøre? Vet hvert fall når andre gjør det med meg så blir jeg veldig såret, fordi det oppleves som at de ikke skjønner at jeg prøver å rette opp i det. Faen stryk den forrige gangen jeg skrev kanskje, sånt er faktisk helt unødvendig. 
+
+Her er et bilde av hvordan jeg føler meg i krangler, både under og etter:
+![fragile meg.jpg|300](/img/user/fragile%20meg.jpg)
