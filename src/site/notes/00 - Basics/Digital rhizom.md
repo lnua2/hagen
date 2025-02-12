@@ -18,6 +18,9 @@ I hode mitt ser jeg sånn ut
 - [[Musikk/Musikk\|Musikk]]
 - [[Oppskrifter/Oppskrifter\|Oppskrifter]]
 - [[Tekster, ideer og tanker/01 - Dagbok/01 - Dagbok\|Dagbok]]
-- []
+- [[Tekster, ideer og tanker/01 - Sammendrag og tanker om ting jeg har lest/01 - Sammendrag og tanker om ting jeg har lest\|Sammendrag og tanker om ting jeg har lest]] 
+- [[Tekster, ideer og tanker/01 - Om folk/01 - Om folk\|Om folk]]
+- [[Tekster, ideer og tanker/Sitater\|Sitater]]
+- 
 
 [^1]: https://maggieappleton.com/garden-history/

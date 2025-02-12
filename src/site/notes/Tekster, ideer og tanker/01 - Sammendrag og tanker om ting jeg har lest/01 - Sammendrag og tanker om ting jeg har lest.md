@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/01-sammendrag-og-tanker-om-ting-jeg-har-lest/01-sammendrag-og-tanker-om-ting-jeg-har-lest/"}
+{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/01-sammendrag-og-tanker-om-ting-jeg-har-lest/01-sammendrag-og-tanker-om-ting-jeg-har-lest/","pinned":"true"}
 ---
 
 Enklere og mer konkret blir det ikke!

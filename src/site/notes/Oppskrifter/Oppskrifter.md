@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oppskrifter/oppskrifter/","dgShowBacklinks":"false"}
+{"dg-publish":true,"permalink":"/oppskrifter/oppskrifter/","pinned":"true","dgShowBacklinks":"false"}
 ---
 
 Forskjellige oppskrifter
