@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/dagbok/dagbok/","pinned":"true"}
+{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/dagbok/dagbok/","hide":"true"}
 ---
 
 Ikke så mye å si her asså, en dagbok!

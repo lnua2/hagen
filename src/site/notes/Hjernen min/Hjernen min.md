@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hjernen-min/hjernen-min/","pinned":"true"}
+{"dg-publish":true,"permalink":"/hjernen-min/hjernen-min/","hide":"true"}
 ---
 
 Dette er et slags forsøk på å forstå hvordan jeg henger sammen, men også tydeliggjøre det for andre. Konseptualisere? Er det et ord som passer her kanskje? Hvem vet.

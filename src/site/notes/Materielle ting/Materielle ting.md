@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materielle-ting/materielle-ting/","pinned":"true"}
+{"dg-publish":true,"permalink":"/materielle-ting/materielle-ting/","hide":"true"}
 ---
 
 [[Materielle ting/Antrekk\|Antrekk]] 
