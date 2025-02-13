@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/tilfeldige-besettelser/tilfeldige-besettelser/"}
+{"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/tilfeldige-besettelser/tilfeldige-besettelser/","hide":"true"}
 ---
 
 Du skjønner greia, bare helt tilfeldige ting jeg blir litt opphengt i. Dette kan være ting som kan videreutvikle seg til å bli en egen kategori
