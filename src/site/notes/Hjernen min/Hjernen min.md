@@ -12,7 +12,7 @@ Dette er et slags forsøk på å forstå hvordan jeg henger sammen, men også ty
 - [[Hjernen min/Hvordan jeg forstår ideer\|Hvordan jeg forstår ideer]] - Eventuelt hvordan jeg prosesserer ideer
 - [[Hjernen min/Latent i meg\|Latent i meg]] - Her mener jeg at det bestemmer hva du liker å gjøre
 - [[Hjernen min/Middag\|Middag]] - Ikke en del av hjernen min, men en viktig deg av noe som er trygt for meg
-- [[Selvfølelse\|Selvfølelse]] - 
+- [[Hjernen min/Selvfølelse\|Selvfølelse]] - 
 - [[Hjernen min/Sinne\|Sinne]] - Tett knyttet opp til angst
 - [[Hjernen min/Stahet\|Stahet]] - Noe som oppstår mellom angst og sinne
 - [[Hjernen min/Tid\|Tid]] - Hvordan jeg forholder meg til det (eventuelt ikke)
