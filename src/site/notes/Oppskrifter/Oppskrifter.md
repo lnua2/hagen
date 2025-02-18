@@ -8,4 +8,4 @@ Forskjellige oppskrifter
 [[Oppskrifter/Salmon Don\|Salmon Don]]
 [[Oppskrifter/Potet og purreløksuppe med jordskokk og bønner\|Potet og purreløksuppe med jordskokk og bønner]]
 [[Oppskrifter/Gobi Manchurian\|Gobi Manchurian]]
-
+[[Potet schnitzel sennepssaus\|Potet schnitzel sennepssaus]]

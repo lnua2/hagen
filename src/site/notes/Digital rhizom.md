@@ -21,6 +21,6 @@ I hode mitt ser jeg sånn ut
 - [[Tekster, ideer og tanker/Sammendrag og tanker om ting jeg har lest/Sammendrag og tanker om ting jeg har lest\|Sammendrag og tanker om ting jeg har lest]] 
 - [[Tekster, ideer og tanker/Om folk/Om folk\|Om folk]]
 - [[Tekster, ideer og tanker/Sitater\|Sitater]]
-- [[Tekster, ideer og tanker/Tilfeldige besettelser/Tilfeldige besettelser\|Tilfeldige besettelser]]
+- [[Tekster, ideer og tanker/Tilfeldige besettelser/Tilfeldige besettelser og skriverier\|Tilfeldige besettelser og skriverier]]
 
 [^1]: https://maggieappleton.com/garden-history/
