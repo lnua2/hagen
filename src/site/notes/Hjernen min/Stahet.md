@@ -6,6 +6,8 @@ Et eksempel på hvordan staheten i meg utarter seg på en sunn måte - er når f
 
 Det er definitivt eksempler på negativ stahet i meg, per nå er det ikke definert med et tydelig eksempel. Men jeg tror jo at det konkrete eksempelet jeg er på utgikk etter har noe med at jeg er selvopptatt å gjøre.
 
+Jeg har store deler av livet mitt avlagt andres meninger som tull. Profesjonelle, eksperter i sitt felt, bare fordi jeg ikke synes de er kule.
+
 [^1]: Akkurat i dette eksempelet er det faktisk kjæresten min, jeg forstår hvor hun kommer fra men hun må også forstå dette.
 
 [^2]: Ikke siter meg på akkurat denne ordleggingen når det gjelder kjæresten min

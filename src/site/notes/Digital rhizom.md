@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-rhizom/","hide":"true","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-rhizom/","hide":"true","tags":["gardenEntry"],"dgShowLocalGraph":"false"}
 ---
 
 # Hva er denne siden

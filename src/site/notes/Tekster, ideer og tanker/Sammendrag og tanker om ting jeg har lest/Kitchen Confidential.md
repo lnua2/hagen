@@ -15,4 +15,20 @@ Nå når jeg tenker på det tror jeg det er mye av grunnen til at jeg ikke forst
 ## Karakterer
 Det andre boken har gjort meg bevist på som noe jeg setter pris på, er hvor viktig det er med karakter for å komme seg noen som helst vei. Bourdain sier selv at han vil ikke ansette noen med flott utdanning som har jobbet på masse fine restauranter, han vil helst ansette noen som gjør det han sier og gjør det riktig [^1]. Jeg elsker karakterer og folk som er sære, så lenge de har en egen moral og "kode" de følger. Ta en viss bartender venn av meg som er fra en øy og stjeler sykler. Fyren er en karakter for å si det mildt, han tar diverse rusmidler og er til tider ganske løk i hode, men han forstår service og kan å ta vare på folk.
 
+## Kjipt å lede, drugs er farlig
+Boken får frem (i min mening) forrskjellen på forskjellige narkotika, rangeringen av farlighete. av å bli avhengighet. Han skriver lite pm heroin
+
+Må ha oversikt på de du jobber med, hvem er lojale hvem er ikke, på kundene, på servitørene på bartenderne, på sjefen din
+
+## Hvor stressende et kjøkken er for sjefskokken
+The Bear gir mye mer mening nå, hvor mye man må lære. pheasent tastes konda loke chicken.
+
+Faen heg kan ikke noe om fransk mat
+
+få kvinner i bransjen - bourdain respeltereer dem alle for det de gjennomgår
+
+Hca er egebtlig ala carte
+
+Viktigheten av å kunne gjøre jobben og holde kjeft uavhengig av hvor ute på kjøret du er. Jeg merker at mange rundt meg ikke er av samme oppfatning. Noe jeg må tilpasse meg. Feks idag sa jeg ifra om noe kun jeg gjør. Personen kom med en forklaring, vanligvis ville jeg blitt irritert, denne gsngen lyttet jeg.
+
 [^1]: Jeg parafraserer kraftig her, han er på grense til rasistisk i hans begrunnelse, men leser man forbi ordene og heller ser på meningen - skjønner man at han mener at han vil ikke ansette bortskjemte kokker med utdanning, fordi de forstår ikke viktigheten av jobb

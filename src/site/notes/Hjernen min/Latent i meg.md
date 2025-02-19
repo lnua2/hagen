@@ -15,3 +15,6 @@ Jeg er overbevist at ting som ligger latent i en, er ting du vil mestre lettere.
 - Leke på egen hånd - jobbe med egne prosjekter, vanskelig å samarbeide
 	- Ble kastet ut i å bli kjent med andre på ferie, derfor det er så lett å gjøre småprat med folk på feks fest.
 - Meditasjon
+- Lesing
+- Service
+- 
