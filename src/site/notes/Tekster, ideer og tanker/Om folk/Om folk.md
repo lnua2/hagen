@@ -8,6 +8,6 @@ På et eller annet tidspunkt skal denne få en ny tittel, men enn så lenge er d
 - [[Hari Nef\|Hari Nef]]
 - [[Hunter Schaefer\|Hunter Schaefer]]
 - [[Haruki Murakami\|Haruki Murakami]]
-- [[Alice Coltrane\|Alice Coltrane]]
+- [[Tekster, ideer og tanker/Om folk/Alice Coltrane\|Alice Coltrane]]
 - [[Kali Malone\|Kali Malone]]
 - 
