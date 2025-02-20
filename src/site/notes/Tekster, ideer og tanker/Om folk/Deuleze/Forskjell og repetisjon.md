@@ -36,12 +36,38 @@ Deleuze mener at forskjell-i-seg-selv er noe positivt, og ikke bare en sammenlig
 #### Personlig identitet
 Dette er vist nok en veldig god måte å forklare hva Deleuze mener med forskjell-i-seg-selv, fordi det tydeliggjøre hvordan vi ikke er statiske vesener definert etter kategorier (student, arbeidsløs, kunstner) men heller dynamisk og utvikler oss gjennom prosessen av differensiering.
 
+##### Tradisjonelle vestlige forståelsen av personlig identitet
 I den tradisjonelle vestlige tankegangen er personlig identitet ofte forstått gjennom begreper som generalitet og likhet.
 - Vi kategoriserer oss selv gjennom generelle knagger (jeg er en student)
 - Identitet blir tolket som noe fiksert og statisk, definert av roller eller egenskaper.
 - Forskjell blir forstått i relasjon til noe annet. "Jeg er forskjellig fra andre på grunn av min unike opplevelse og karakteristikker"
 Her er identitet knyttet til representasjon. Fordi jeg ikke kjenner meg igjen i kjønnet jeg er tildelt er jeg forskjellig fra noen som er det. Vi definerer oss selv gjennom å sammenligne oss med andre, eller plassere oss i kategorier.
 
+##### Deleuze sin forståelge av personlig identitet
+Deleuze sin tolkning av personlig identitet gjort gjennom forskjell-i-seg-selv, argumenterer for at personlig identitet ikke er låst fast eller definert på forhånd[^2], men heller resultatet av en pågående prosess av differensiering. 
+- Identitet er ifølge Deleuze en prosess, ikke en fiksert tilstand. Identitet er med andre ord noe du blir til, ikke noe du er. Din identitet blir til gjennom dine opplevelser, relasjoner og handlinger. Ikke gjennom kategorier du er plassert i. For eksempel er det at jeg er trans en kategori, men det som gjør meg trans er mine opplevelser, hvordan jeg er i relasjoner og handlingene mine. Jeg blir trans gjennom mine handlinger. Jeg er ikke trans på grunn av mine handlinger.
+- Hvordan du håndterer ting, oppfører deg mot andre er ikke et resultat av kategorier som eksisterer på forhånd, men et resultat av din prosess for differensiering (flere prosesser av differensiering). Dette er et uttrykk for forskjell-i-seg-selv. [^3] 
+- Deleuze understreker at personlig identitet består av flere skiftende elementer. Du er ikke et fiksert "selv" men summen av alle disse skiftende "selvene" som dukker opp i forskjellige kontekster og gjennom forskjellige prosesser av differensiering. [^4]
+##### Eksempel
+Se for deg Luna.
+
+- I den tradisjonelle vestlige definisjonen av personlig identitet er dette beskrivelsen av Luna
+	- Bruker vi generelle kategorier for å beskrive Luna. Luna er 25 år, liker musikk og jobber som kundebehandler.
+- I Deleuze sin tolkning av personlig identitet er dette beskrivelsen av Luna
+	- Det at Luna liker musikk er en prosess av differensiering. Måten Luna lytter til musikk, lager spillelister, eller lærer seg et instrument er unik og kan ikke bli redusert til at hun er glad i musikk. Luna opplever musikk gjennom sin differensiering av musikk.
+	- Måten Luna jobber som kundebehandler er ikke definert ut fra en konkret ide om hva en kundebehandler er, men blir heller definert ut fra hennes opplevelser, hvordan hun interagerer med kundene, og hvordan hun forklarer ting. 
+	- Over tid kommer Luna sin identitet til å forandre seg gjennom nye opplevelser, interraksjoner og relasjoner. En interaksjon på jobben kan forandre hvordan Luna gjør jobben sin og hvordan hun behandler venner og familie. Denne prosessen er et uttrykk for Luna sin pågående prosess for differensiering. 
+#### Egne tanker
+Veldig lenge sammenlignet jeg meg selv med andre, jeg sammenlignet også min musikk med andre. Dette gjorde meg bare ulykkelig. Etter hvert som jeg begynte å differensiere hva jeg likte og ikke likte, begynte jeg å slite mindre dette.
+
 
 
 [^1]: Har noe fra tiktok om dette som forklarer det, burde legge det inn her
+
+[^2]: Med definert på forhånd menes at identiteten er definert på forhånd ut fra forskjellen fra andre. Du er høyere enn meg. 
+
+[^3]: Her mister jeg det. Trudde jeg hadde det men nå mistet jeg det. Se
+{ #4}
+, da skjønte jeg det igjen.
+
+[^4]: Her blir forskjell-i-seg-selv og forskjellen mellom ting brukt om hverandre.
