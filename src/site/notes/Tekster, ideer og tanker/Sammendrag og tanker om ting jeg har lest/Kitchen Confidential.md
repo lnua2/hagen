@@ -9,7 +9,7 @@ Noe av det første jeg la merke til i boken er hvordan jeg kjenner meg igjen i h
 ## Mat, selskap og service
 Det andre boken så langt har fått meg til å reflektere over er viktigheten mat og [[Hjernen min/Middag\|middagsselskap]] har for meg. Det handler ikke om at maten er god men å hengi meg til et slit og et strev for å gi noe nødvendig til de jeg bryr meg om. Når jeg sier nødvendig tenker du kanskje umiddelbart på for, men nei, jeg snakker om selskap. Å spise middag med noen rundt et bord gjør så uendelige mye for relasjonen, det å være sammen i øyeblikket, nyte den samme mate, og den samme drikken, spleiser oss sammen på et vis, og bygger et eget samhold. Et samhold som klarte å få selv et lite barn med en alkoholisert far, til å føle seg sett og hørt. Takket være middagen og kravene som ble stilt til den i mitt hjem (vi sitter sammen, og prater sammen) følte jeg meg ikke helt utskutt og utrygg.
 
-Nå når jeg tenker på det tror jeg det er en av grunnene til at jeg ikke forsto at det var noe problematisk i hjemmet mitt.
+Nå når jeg tenker på det tror jeg det er nen av grunnenee til at jeg ikke forsto at det var noe problematisk i hjemmet mitt.
 
 ## Karakterer
 Det andre boken har gjort meg bevist på som noe jeg setter pris på, er hvor viktig det er med karakter for å komme seg noen som helst vei. Bourdain sier selv at han vil ikke ansette noen med flott utdanning som har jobbet på masse fine restauranter, han vil helst ansette noen som gjør det han sier og gjør det riktig [^1]. Jeg blir selv fascinert av karakterer og folk som er sære, og opplever oftest at de er folk jeg kan komme overens med. Ta en viss bartender venn av meg som er fra en øy og stjeler sykler. Fyren er en karakter for å si det mildt, han tar diverse rusmidler og er til tider ganske løk i hode, men han jeg ville stolt på han til ganske mye.
@@ -28,5 +28,8 @@ Noe The Bear ikke får helt tydelig frem, men som ingen tvil er en sannhet, er h
 Det er to ting jeg trenger å lære mer om, fransk mat og hva faen er egentlig ala carte.
 
 Viktigheten av å kunne gjøre jobben og holde kjeft uavhengig av hvor ute på kjøret du er. Jeg merker at mange rundt meg ikke er av samme oppfatning. Noe jeg må tilpasse meg. Feks idag sa jeg ifra om noe kun jeg gjør. Personen kom med en forklaring, vanligvis ville jeg blitt irritert, denne gangen lyttet jeg. Mindre irritert men vi får se om det gjøre noe forskjell.
+
+## Angsten for å gå inn et sted
+Et sted man ikke kjenner til vanene. Et nytt og fremmed land (eller by eller sted). Han i japan.
 
 [^1]: Jeg parafraserer kraftig her, han er på grense til rasistisk i hans begrunnelse, men leser man forbi ordene og heller ser på meningen - skjønner man at han mener at han vil ikke ansette bortskjemte kokker med utdanning, fordi de forstår ikke viktigheten av jobb

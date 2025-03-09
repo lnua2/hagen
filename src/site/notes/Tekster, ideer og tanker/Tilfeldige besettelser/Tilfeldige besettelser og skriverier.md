@@ -6,4 +6,4 @@ Du skjønner greia, bare helt tilfeldige ting jeg blir litt opphengt i. Dette ka
 - [[Tekster, ideer og tanker/Tilfeldige besettelser/Leiligheten til Matt Reynolds\|Leiligheten til Matt Reynolds]]
 - [[Jeg trenger flere singletter\|Jeg trenger flere singletter]]
 - [[Granatepler\|Granatepler]]
-- 
+- [[Tekster, ideer og tanker/Tilfeldige besettelser/Pierre Menard, Author of the Quixote\|Pierre Menard, Author of the Quixote]]
