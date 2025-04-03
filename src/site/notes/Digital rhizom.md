@@ -14,9 +14,7 @@ I hode mitt ser jeg sånn ut
 
 ## Oversikt over noder
 - [[Materielle ting/Materielle ting\|Materielle ting]]
-- [[Hjernen min/Hjernen min\|Hjernen min]]
 - [[Musikk/Musikk\|Musikk]]
-- [[Oppskrifter/Oppskrifter\|Oppskrifter]]
 - [[Tekster, ideer og tanker/Dagbok/Dagbok\|Dagbok]]
 - [[Tekster, ideer og tanker/Sammendrag og tanker om ting jeg har lest/Sammendrag og tanker om ting jeg har lest\|Sammendrag og tanker om ting jeg har lest]] 
 - [[Tekster, ideer og tanker/Om folk/Om folk\|Om folk]]

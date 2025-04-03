@@ -16,4 +16,4 @@ På et eller annet tidspunkt skal denne få en ny tittel, men enn så lenge er d
 - [[Doris Norton\|Doris Norton]]
 - [[Fran Lebowitz\|Fran Lebowitz]]
 - [[Hunter S. Thompson\|Hunter S. Thompson]]
-- [[Lyra pr\|Lyra pr]]
+- [[Lyra Pramuk\|Lyra Pramuk]]

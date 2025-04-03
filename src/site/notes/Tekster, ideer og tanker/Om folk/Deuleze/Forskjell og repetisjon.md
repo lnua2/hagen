@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/tekster-ideer-og-tanker/om-folk/deuleze/forskjell-og-repetisjon/"}
 ---
 
-## Egen erfaring
-Det er spesielt når jeg er syk at jeg forstår hva [[Tekster, ideer og tanker/Om folk/Deuleze/Gilles Louis René Deuleze\|Deleuze]] mener når han snakker om forskjeller og betydning. Etter noen dager uten interaksjon med omverden er det vanskeligere å definere meg selv, hvem er jeg og hvordan henger jeg sammen. Jeg har jo siden min om [[Hjernen min/Hjernen min\|hjernen min]] som beskriver det for meg på sett og vis, men opplevelsen av det blir borte. Dette er et argument for hvordan jeg forstår [[Hjernen min/Hvordan jeg forstår ideer\|ideer]]. Jeg kan kanskje tenke og intellektualisere noe, men det er først etter å ha opplevd det i praksis at jeg faktisk forstår.
-
-Det er jeg opplever at jeg forsvinner i fraværet fra andre rundt meg å sammenligne meg med, viser til at JEG definerer meg på feil måte. Jeg definerer meg selv gjennom motsetning av andre. 
-
 ![difference.jpg|200](/img/user/Bilder/difference.jpg)
 
 ## Forskjell og repetisjon
